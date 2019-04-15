@@ -1,3 +1,3 @@
-module Baku
+module Blumfump
   VERSION = "0.1.0"
 end

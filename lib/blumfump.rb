@@ -1,6 +1,6 @@
-require "baku/version"
+require "blumfump/version"
 
-module Baku
+module Blumfump
   class Error < StandardError; end
 end
 

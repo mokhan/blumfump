@@ -1,17 +1,17 @@
 
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "baku/version"
+require "blumfump/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "baku"
-  spec.version       = Baku::VERSION
+  spec.name          = "blumfump"
+  spec.version       = Blumfump::VERSION
   spec.authors       = ["mokha"]
   spec.email         = ["mokha@cisco.com"]
 
   spec.summary       = %q{Don't sleep.}
   spec.description   = %q{Don't sleep.}
-  spec.homepage      = "https://github.com/mokhan/baku"
+  spec.homepage      = "https://github.com/mokhan/blumfump"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.

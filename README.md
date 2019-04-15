@@ -1,10 +1,11 @@
-# Baku
+# Blumfump
 
-> The Baku is a gigantic sea serpent which inhabits a community of Mer people on an unknown ice planet.
-> It inhabits the deep-sea realm under a thick layer of polar ice, surviving by mind-controlling it's prey around it to feed themselves to the "Baku garden": the resting place of the manipulative worm.
-> When Hunk and Lance become stranded in the undersea kingdom, they help to rid the populous of control by killing the Baku.
+> Blumfump is a Mer alien living on a Frozen Planet who recruited Lance's help to save his underwater home from brainwashing.
+> He, Plaxum and Swirn kidnapped Lance from Queen Luxia and convinced him that their society was being brainwashed.
+> Later, Lance and Hunk discovered that it was in fact a giant, plant-like worm monster hiding in the Baku garden that was behind the mind control.
+> Once the Paladins defeated the monster, Queen Luxia asked Blumpfump, Plaxum, and Swirn to be become her advisors.
 
-- https://voltron.fandom.com/wiki/Baku
+- https://voltron.fandom.com/wiki/Blumfump
 
 This gem override Kernel#sleep to a `noop`.
 
@@ -13,7 +14,7 @@ This gem override Kernel#sleep to a `noop`.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'baku'
+gem 'blumfump'
 ```
 
 And then execute:
@@ -22,12 +23,12 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install baku
+    $ gem install blumfump
 
 ## Usage
 
 ```ruby
-require 'baku'
+require 'blumfump'
 ```
 
 ## Development
@@ -38,7 +39,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/mokhan/baku.
+Bug reports and pull requests are welcome on GitHub at https://github.com/mokhan/blumfump.
 
 ## License
 
