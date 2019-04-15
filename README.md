@@ -1,8 +1,12 @@
 # Baku
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/baku`. To experiment with that code, run `bin/console` for an interactive prompt.
+> The Baku is a gigantic sea serpent which inhabits a community of Mer people on an unknown ice planet.
+> It inhabits the deep-sea realm under a thick layer of polar ice, surviving by mind-controlling it's prey around it to feed themselves to the "Baku garden": the resting place of the manipulative worm.
+> When Hunk and Lance become stranded in the undersea kingdom, they help to rid the populous of control by killing the Baku.
 
-TODO: Delete this and the text above, and describe your gem
+- https://voltron.fandom.com/wiki/Baku
+
+This gem override Kernel#sleep to a `noop`.
 
 ## Installation
 
@@ -22,7 +26,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require 'baku'
+```
 
 ## Development
 
@@ -32,7 +38,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/baku.
+Bug reports and pull requests are welcome on GitHub at https://github.com/mokhan/baku.
 
 ## License
 
